@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* this class for full body */
+#Firstpart {
+    margin-top: 30px;
+    padding-left: 5px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+/* this class for menu bar  */
+.search-bar {
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: px
+}
+
+.menu {
+    margin-right:
+}
+
+.searchbar {
+    margin-left: 10px;
+    padding-top: 8px;
+    margin-right: 10px;
+
+}
+
+.btn {
+    padding-top: 8px;
+}
+
+/* this is my img div  */
+
+.img {
+    margin-bottom: 15px;
+}
+
+/* this is my footer part  */
+
+.footer {
+    margin-bottom: 20px;
+}
