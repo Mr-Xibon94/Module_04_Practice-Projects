@@ -32,7 +32,12 @@
 }
 
 .btn {
-    padding-top: 8px;
+    padding-top: 4px;
+}
+
+.btn-srch {
+    padding: 5px 10px;
+    border-radius: 5px;
 }
 
 /* this is my img div  */
