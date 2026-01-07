@@ -50,6 +50,9 @@
 }
 
 /* this is my feedback form part  */
+.form {
+    margin-left: 5px;
+}
 
 .form h3 {
     margin-top: 10px;
@@ -75,6 +78,7 @@
 /* its my footer part  */
 
 #pagelist .mypages {
+    margin-left: 20px;
     margin-top: 50px;
     display: flex;
     list-style-type: none;
