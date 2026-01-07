@@ -59,6 +59,7 @@
 /* its my footer part  */
 
 #pagelist .mypages {
+    margin-left: 20px;
     margin-top: 50px;
     display: flex;
     list-style-type: none;
