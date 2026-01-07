@@ -20,9 +20,6 @@
     padding: px
 }
 
-.menu {
-    margin-right:
-}
 
 .searchbar {
     margin-left: 10px;
@@ -49,5 +46,39 @@
 /* this is my footer part  */
 
 .footer {
+    margin-bottom: 20px;
+}
+
+/* this is my feedback form part  */
+
+.form h3 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.form #Name {
+    margin-bottom: 10px;
+}
+
+.form #Date {
+    margin-bottom: 10px;
+}
+
+.form #Commentbox {
+    margin-bottom: 20px;
+}
+
+.form #submitbtn {
+    padding: 8px;
+}
+
+/* its my footer part  */
+
+#pagelist .mypages {
+    margin-top: 50px;
+    display: flex;
+    list-style-type: none;
+    gap: 30px;
+    font-size: 1.25em;
     margin-bottom: 20px;
 }
