@@ -21,19 +21,19 @@
 }
 
 
-.searchbar {
-    margin-left: 10px;
-    padding-top: 8px;
+.searchbar #searchbox {
+
+    height: 35px;
+    width: 250px;
     margin-right: 10px;
+    margin-left: 10px;
 
 }
 
-.btn {
-    padding-top: 4px;
-}
 
-.btn-srch {
-    padding: 5px 10px;
+
+#btn-srch {
+    padding: 10px 10px;
     border-radius: 5px;
 }
 
